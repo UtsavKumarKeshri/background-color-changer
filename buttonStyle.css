@@ -1,0 +1,25 @@
+body{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.changer{
+    border: 3px groove  green;
+    border-radius: 15px;
+    font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,124,0.36738445378151263) 49%, rgba(2,0,36,1) 100%);
+    color:gold;
+    cursor: pointer;
+}
+
+p{
+    font-size: 24px;
+    padding-left: 18px;
+}
